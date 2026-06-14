@@ -20,28 +20,28 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 - **Website / Blog:** theampsocial.com
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - [ ] Brief Annotation 
+  -  
 
 ### 3. Jason Bay
 - **LinkedIn:** 
 - **Website / Blog:**
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - [ ] Brief Annotation
+  -  
 
 ### 4. Yurii Veremchuk
 - **LinkedIn:** https://www.linkedin.com/in/yuriiveremchuk/
-- **Website / Blog:**
+- **Website / Blog:** woodpecker.co/blog
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - [ ] Brief Annotation Yurii regularly publishes actual benchmarks — average open rates by industry, reply rates, best send times — drawn from the platform's own data.
+  - Brief Annotation Yurii regularly publishes actual benchmarks — average open rates by industry, reply rates, best send times — drawn from the platform's own data.
 
 ### 5. Alan Ruchtein
-- **LinkedIn:** 
-- **Website / Blog:**
+- **LinkedIn:** www.linkedin.com/in/alanruchtein
+- **Website / Blog:** alanruchtein.com
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - [ ] Brief Annotation
+  -  
 
 
 ### 6. Alex Vacca
@@ -49,32 +49,32 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 - **Website / Blog:** coldiq.com
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - [ ] Brief Annotation
+  -  
  
  ### 7. Michel Lieben
 - **LinkedIn:** linkedin.com/in/michel-lieben
 - **Website / Blog:**
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - [ ] Brief Annotation
+  - 
  
 ### 8. Haris Halkic
 - **LinkedIn:** linkedin.com/in/haris-halkic
 - **Website / Blog:** salesdaily.co
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - [ ] Brief Annotation
+  - 
 
 ### 9. Matt Green
 - **LinkedIn:** https://www.linkedin.com/in/matthewcorneliusgreen/
 - **Website / Blog:** salesassembly.com
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - [ ] Brief Annotation
+  -  
 
 ### 10. Vin Matano
 - **LinkedIn:** linkedin.com/in/vinmatano
 - **Website / Blog:**
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - [ ] Brief Annotation 
+  -  
