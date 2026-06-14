@@ -12,19 +12,17 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 - **LinkedIn:** https://www.linkedin.com/in/jackreamer
 - **Website / Blog:** https://salesbread.com/
 - - **Key content collected:**
-  - [ ] Podcast episodes (see `https://salesbread.com/articles/`)
-  - [ ] Dated of recent post June 11 2026
+  - [ ] Dated of recent post on salesbread.com website June 11 2026
   - [ ] Brief Annotation jack is the founder of salesbread.com website offer 1 qualified lead per day, or your money back. No vague "we'll help you grow" language.
 
 ### 2. Morgan J Ingram
-- **LinkedIn:** 
-- **Website / Blog:** 
+- **LinkedIn:** linkedin.com/in/morganjingramamp
+- **Website / Blog:** theampsocial.com 
 - - **Key content collected:**
-  - [ ] Podcast episodes 
   - [ ] Dated of recent post
   - [ ] Brief Annotation 
 
-### 3. Morgan J Ingram
+### 3. Jason Bay
 - **LinkedIn:** 
 - **Website / Blog:** 
 - - **Key content collected:**
@@ -32,7 +30,7 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
   - [ ] Dated of recent post
   - [ ] Brief Annotation
 
-### 4. Morgan J Ingram
+### 4. Yurii Veremchuk
 - **LinkedIn:** 
 - **Website / Blog:** 
 - - **Key content collected:**
