@@ -38,7 +38,7 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
   - [ ] Dated of recent post
   - [ ] Brief Annotation
 
-### 5. Morgan J Ingram
+### 5. Alan Ruchtein
 - **LinkedIn:** 
 - **Website / Blog:** 
 - - **Key content collected:**
@@ -47,40 +47,40 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
   - [ ] Brief Annotation
 
 
-### 6. Morgan J Ingram
-- **LinkedIn:** 
+### 6. Alex Vacca
+- **LinkedIn:** linkedin.com/in/alex-vacca
+- **Website / Blog:** coldiq.com 
+- - **Key content collected:**
+  - [ ] Podcast episodes 
+  - [ ] Dated of recent post
+  - [ ] Brief Annotation
+ 
+ ### 7. Michel Lieben
+- **LinkedIn:** linkedin.com/in/michel-lieben
 - **Website / Blog:** 
 - - **Key content collected:**
   - [ ] Podcast episodes 
   - [ ] Dated of recent post
   - [ ] Brief Annotation
  
- ### 7. Morgan J Ingram
-- **LinkedIn:** 
-- **Website / Blog:** 
-- - **Key content collected:**
-  - [ ] Podcast episodes 
-  - [ ] Dated of recent post
-  - [ ] Brief Annotation
- 
-### 8. Morgan J Ingram
-- **LinkedIn:** 
-- **Website / Blog:** 
+### 8. Haris Halkic
+- **LinkedIn:** linkedin.com/in/haris-halkic
+- **Website / Blog:** salesdaily.co
 - - **Key content collected:**
   - [ ] Podcast episodes 
   - [ ] Dated of recent post
   - [ ] Brief Annotation
 
-### 9. Morgan J Ingram
-- **LinkedIn:** 
-- **Website / Blog:** 
+### 9. Matt Green
+- **LinkedIn:** https://www.linkedin.com/in/matthewcorneliusgreen/
+- **Website / Blog:** salesassembly.com 
 - - **Key content collected:**
   - [ ] Podcast episodes 
   - [ ] Dated of recent post
   - [ ] Brief Annotation
 
-### 10. Morgan J Ingram
-- **LinkedIn:** 
+### 10. Vin Matano
+- **LinkedIn:** linkedin.com/in/vinmatano
 - **Website / Blog:** 
 - - **Key content collected:**
   - [ ] Podcast episodes 
