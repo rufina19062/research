@@ -15,19 +15,19 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 - **Key content collected:**
   - jack is the founder of salesbread.com website offer 1 qualified lead per day, or your money back. No vague "we'll help you grow" language.
 
-### 2. Morgan J Ingram
-- **LinkedIn:** https://www.linkedin.com/in/morganjingramamp
-- **Website / Blog:** theampsocial.com
+### 2. Matthew Lucero
+- **LinkedIn:** https://www.linkedin.com/in/matthew-lucero
+- **Website / Blog:** https://anevomarketing.com 
 - **Date:** June 14, 2026
 - **Key content collected:**
-  -  
+  -  Matthew covers the technical infrastructure seriously such as domain warming, deliverability, DNS setup, why emails land in spam even when the copy is solid.
 
 ### 3. Jason Bay
 - **LinkedIn:** 
 - **Website / Blog:**
 - **Date:** June 14, 2026
 - **Key content collected:**
-  -  
+  -  Founder of Outbound Squad, focus 100% on outbound prospecting — not motivation, not personal brand, but outreach system that can replicate 
 
 ### 4. Yurii Veremchuk
 - **LinkedIn:** https://www.linkedin.com/in/yuriiveremchuk/
@@ -41,12 +41,12 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 - **Website / Blog:** alanruchtein.com
 - **Date:** June 14, 2026
 - **Key content collected:**
-  -  
+  -  Alan posts short, tactical content on LinkedIn — checklists, single-concept breakdowns, frameworks you can apply the same day.
 
 
 ### 6. Alex Vacca
-- **LinkedIn:** linkedin.com/in/alex-vacca
-- **Website / Blog:** coldiq.com
+- **LinkedIn:** https://www.linkedin.com/in/alex-vacca
+- **Website / Blog:** https://coldiq.com
 - **Date:** June 14, 2026
 - **Key content collected:**
   -  
