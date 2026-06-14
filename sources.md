@@ -11,78 +11,70 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 ### 1. Jack Reamer
 - **LinkedIn:** https://www.linkedin.com/in/jackreamer
 - **Website / Blog:** https://salesbread.com/
-- - **Key content collected:**
-  - [ ] Dated of recent post on salesbread.com website June 11 2026
+- **Date:** June 14, 2026
+- **Key content collected:**
   - [ ] Brief Annotation jack is the founder of salesbread.com website offer 1 qualified lead per day, or your money back. No vague "we'll help you grow" language.
 
 ### 2. Morgan J Ingram
 - **LinkedIn:** linkedin.com/in/morganjingramamp
-- **Website / Blog:** theampsocial.com 
-- - **Key content collected:**
-  - [ ] Dated of recent post
+- **Website / Blog:** theampsocial.com
+- **Date:** June 14, 2026
+- **Key content collected:**
   - [ ] Brief Annotation 
 
 ### 3. Jason Bay
 - **LinkedIn:** 
-- **Website / Blog:** 
-- - **Key content collected:**
-  - [ ] Podcast episodes 
-  - [ ] Dated of recent post
+- **Website / Blog:**
+- **Date:** June 14, 2026
+- **Key content collected:**
   - [ ] Brief Annotation
 
 ### 4. Yurii Veremchuk
-- **LinkedIn:** 
-- **Website / Blog:** 
-- - **Key content collected:**
-  - [ ] Podcast episodes 
-  - [ ] Dated of recent post
-  - [ ] Brief Annotation
+- **LinkedIn:** https://www.linkedin.com/in/yuriiveremchuk/
+- **Website / Blog:**
+- **Date:** June 14, 2026
+- **Key content collected:**
+  - [ ] Brief Annotation Yurii regularly publishes actual benchmarks — average open rates by industry, reply rates, best send times — drawn from the platform's own data.
 
 ### 5. Alan Ruchtein
 - **LinkedIn:** 
-- **Website / Blog:** 
-- - **Key content collected:**
-  - [ ] Podcast episodes 
-  - [ ] Dated of recent post
+- **Website / Blog:**
+- **Date:** June 14, 2026
+- **Key content collected:**
   - [ ] Brief Annotation
 
 
 ### 6. Alex Vacca
 - **LinkedIn:** linkedin.com/in/alex-vacca
-- **Website / Blog:** coldiq.com 
-- - **Key content collected:**
-  - [ ] Podcast episodes 
-  - [ ] Dated of recent post
+- **Website / Blog:** coldiq.com
+- **Date:** June 14, 2026
+- **Key content collected:**
   - [ ] Brief Annotation
  
  ### 7. Michel Lieben
 - **LinkedIn:** linkedin.com/in/michel-lieben
-- **Website / Blog:** 
-- - **Key content collected:**
-  - [ ] Podcast episodes 
-  - [ ] Dated of recent post
+- **Website / Blog:**
+- **Date:** June 14, 2026
+- **Key content collected:**
   - [ ] Brief Annotation
  
 ### 8. Haris Halkic
 - **LinkedIn:** linkedin.com/in/haris-halkic
 - **Website / Blog:** salesdaily.co
-- - **Key content collected:**
-  - [ ] Podcast episodes 
-  - [ ] Dated of recent post
+- **Date:** June 14, 2026
+- **Key content collected:**
   - [ ] Brief Annotation
 
 ### 9. Matt Green
 - **LinkedIn:** https://www.linkedin.com/in/matthewcorneliusgreen/
-- **Website / Blog:** salesassembly.com 
-- - **Key content collected:**
-  - [ ] Podcast episodes 
-  - [ ] Dated of recent post
+- **Website / Blog:** salesassembly.com
+- **Date:** June 14, 2026
+- **Key content collected:**
   - [ ] Brief Annotation
 
 ### 10. Vin Matano
 - **LinkedIn:** linkedin.com/in/vinmatano
-- **Website / Blog:** 
-- - **Key content collected:**
-  - [ ] Podcast episodes 
-  - [ ] Dated of recent post
-  - [ ] Brief Annotation
+- **Website / Blog:**
+- **Date:** June 14, 2026
+- **Key content collected:**
+  - [ ] Brief Annotation 
