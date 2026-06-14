@@ -16,7 +16,7 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
   - jack is the founder of salesbread.com website offer 1 qualified lead per day, or your money back. No vague "we'll help you grow" language.
 
 ### 2. Morgan J Ingram
-- **LinkedIn:** linkedin.com/in/morganjingramamp
+- **LinkedIn:** https://www.linkedin.com/in/morganjingramamp
 - **Website / Blog:** theampsocial.com
 - **Date:** June 14, 2026
 - **Key content collected:**
