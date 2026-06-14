@@ -38,7 +38,7 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 
 ### 5. Alan Ruchtein
 - **LinkedIn:** www.linkedin.com/in/alanruchtein
-- **Website / Blog:** alanruchtein.com
+- **Website / Blog:** https://alanruchtein.com
 - **Date:** June 14, 2026
 - **Key content collected:**
   -  Alan posts short, tactical content on LinkedIn — checklists, single-concept breakdowns, frameworks you can apply the same day.
@@ -52,13 +52,13 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
   -  ColdIQ is focused entirely on outbound for B2B SaaS, which makes Alex's content directly relevant to this research. 
  
  ### 7. Michel Lieben
-- **LinkedIn:** linkedin.com/in/michel-lieben
+- **LinkedIn:** https://linkedin.com/in/michel-lieben
 - **Date:** June 14, 2026
 - **Key content collected:**
   - Michel is the founder and CEO of ColdIQ, and one of the most data-transparent practitioners on this list. He's publicly shared how his agency went from 4,000 cold emails with 1 lead to $7M ARR and 25,000+ leads generated — with the actual process breakdown, not just the headline number.
  
 ### 8. Haris Halkic
-- **LinkedIn:** linkedin.com/in/haris-halkic
+- **LinkedIn:** https://linkedin.com/in/haris-halkic
 - **Website / Blog:** https://salesdaily.co
 - **Date:** June 14, 2026
 - **Key content collected:**
