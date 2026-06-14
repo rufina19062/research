@@ -23,15 +23,15 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
   -  Matthew covers the technical infrastructure seriously such as domain warming, deliverability, DNS setup, why emails land in spam even when the copy is solid.
 
 ### 3. Jason Bay
-- **LinkedIn:** 
-- **Website / Blog:**
+- **LinkedIn:** https://www.linkedin.com/in/jasondbay
+- **Website / Blog:** https://outboundsquad.com; link.chtbl.com
 - **Date:** June 14, 2026
 - **Key content collected:**
   -  Founder of Outbound Squad, focus 100% on outbound prospecting — not motivation, not personal brand, but outreach system that can replicate 
 
 ### 4. Yurii Veremchuk
 - **LinkedIn:** https://www.linkedin.com/in/yuriiveremchuk/
-- **Website / Blog:** woodpecker.co/blog
+- **Website / Blog:** https://woodpecker.co/blog
 - **Date:** June 14, 2026
 - **Key content collected:**
   - Brief Annotation Yurii regularly publishes actual benchmarks — average open rates by industry, reply rates, best send times — drawn from the platform's own data.
@@ -49,31 +49,30 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 - **Website / Blog:** https://coldiq.com
 - **Date:** June 14, 2026
 - **Key content collected:**
-  -  
+  -  ColdIQ is focused entirely on outbound for B2B SaaS, which makes Alex's content directly relevant to this research. 
  
  ### 7. Michel Lieben
 - **LinkedIn:** linkedin.com/in/michel-lieben
-- **Website / Blog:**
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - 
+  - Michel is the founder and CEO of ColdIQ, and one of the most data-transparent practitioners on this list. He's publicly shared how his agency went from 4,000 cold emails with 1 lead to $7M ARR and 25,000+ leads generated — with the actual process breakdown, not just the headline number.
  
 ### 8. Haris Halkic
 - **LinkedIn:** linkedin.com/in/haris-halkic
-- **Website / Blog:** salesdaily.co
+- **Website / Blog:** https://salesdaily.co
 - **Date:** June 14, 2026
 - **Key content collected:**
-  - 
+  - Runs SalesDaily newsletter with 40K+ subscribers and Top Seller Tactics newsletter with 15K+ subscribers. Ranked top 1% di LinkedIn U.S. (#58) dan #12 in Sales (U.S.) Favikon
 
-### 9. Matt Green
-- **LinkedIn:** https://www.linkedin.com/in/matthewcorneliusgreen/
-- **Website / Blog:** salesassembly.com
+### 9. 
+- **LinkedIn:** 
+- **Website / Blog:** 
 - **Date:** June 14, 2026
 - **Key content collected:**
   -  
 
-### 10. Vin Matano
-- **LinkedIn:** linkedin.com/in/vinmatano
+### 10. 
+- **LinkedIn:** 
 - **Website / Blog:**
 - **Date:** June 14, 2026
 - **Key content collected:**
