@@ -64,13 +64,13 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 - **Key content collected:**
   - Runs SalesDaily newsletter with 40K+ subscribers and Top Seller Tactics newsletter with 15K+ subscribers. Ranked top 1% di LinkedIn U.S. (#58) dan #12 in Sales (U.S.) Favikon
 
-### 9. 
-- **LinkedIn:** 
-- **Website / Blog:** 
+### 9. AJ Cassata
+- **LinkedIn:** https://www.linkedin.com/in/ajcassata
+- **Website / Blog:** https://revenueboost.net
 - **Date:** June 14, 2026
 - **Key content collected:**
-  -  
-
+  -  Focusing in cold email + LinkedIn omnichannel — not just theory, he runs his system for his client
+    
 ### 10. 
 - **LinkedIn:** 
 - **Website / Blog:**
