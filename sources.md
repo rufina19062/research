@@ -71,9 +71,8 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 - **Key content collected:**
   -  Focusing in cold email + LinkedIn omnichannel — not just theory, he runs his system for his client
     
-### 10. 
-- **LinkedIn:** 
-- **Website / Blog:**
+### 10. Becc Holland
+- **LinkedIn:** https://www.linkedin.com/in/beccholland-flipthescript
 - **Date:** June 14, 2026
 - **Key content collected:**
-  -  
+  -  Becc Holland is one of the few people on this topic who built her framework from the inside — as Head of Sales Development at Chorus.ai, she wasn't coaching others on cold outreach theory, she was running it herself for a fast-growing SaaS company.
