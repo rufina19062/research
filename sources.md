@@ -20,12 +20,71 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
 - **LinkedIn:** 
 - **Website / Blog:** 
 - - **Key content collected:**
-  - [ ] Podcast episodes (see `https://salesbread.com/articles/`)
+  - [ ] Podcast episodes 
   - [ ] Dated of recent post
   - [ ] Brief Annotation 
 
+### 3. Morgan J Ingram
+- **LinkedIn:** 
+- **Website / Blog:** 
+- - **Key content collected:**
+  - [ ] Podcast episodes 
+  - [ ] Dated of recent post
+  - [ ] Brief Annotation
+
+### 4. Morgan J Ingram
+- **LinkedIn:** 
+- **Website / Blog:** 
+- - **Key content collected:**
+  - [ ] Podcast episodes 
+  - [ ] Dated of recent post
+  - [ ] Brief Annotation
+
+### 5. Morgan J Ingram
+- **LinkedIn:** 
+- **Website / Blog:** 
+- - **Key content collected:**
+  - [ ] Podcast episodes 
+  - [ ] Dated of recent post
+  - [ ] Brief Annotation
 
 
+### 6. Morgan J Ingram
+- **LinkedIn:** 
+- **Website / Blog:** 
+- - **Key content collected:**
+  - [ ] Podcast episodes 
+  - [ ] Dated of recent post
+  - [ ] Brief Annotation
+ 
+ ### 7. Morgan J Ingram
+- **LinkedIn:** 
+- **Website / Blog:** 
+- - **Key content collected:**
+  - [ ] Podcast episodes 
+  - [ ] Dated of recent post
+  - [ ] Brief Annotation
+ 
+### 8. Morgan J Ingram
+- **LinkedIn:** 
+- **Website / Blog:** 
+- - **Key content collected:**
+  - [ ] Podcast episodes 
+  - [ ] Dated of recent post
+  - [ ] Brief Annotation
 
+### 9. Morgan J Ingram
+- **LinkedIn:** 
+- **Website / Blog:** 
+- - **Key content collected:**
+  - [ ] Podcast episodes 
+  - [ ] Dated of recent post
+  - [ ] Brief Annotation
 
-
+### 10. Morgan J Ingram
+- **LinkedIn:** 
+- **Website / Blog:** 
+- - **Key content collected:**
+  - [ ] Podcast episodes 
+  - [ ] Dated of recent post
+  - [ ] Brief Annotation
