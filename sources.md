@@ -10,10 +10,11 @@ Selection criteria: verifiable results (reply rates, email volume, real clients,
  
 ### 1. Jack Reamer
 - **LinkedIn:** https://www.linkedin.com/in/jackreamer
-- **Website / Blog:** https://saleshive.com / https://emailsoldiers.com
-- **Dates** May 31, 2026
+- **Website / Blog:** https://salesbread.com/
 - - **Key content collected:**
   - [ ] LinkedIn posts (see `/linkedin-posts/jack-reamer/`)
+  - [ ] Dates of LinkedIn post
+  - [ ] Brief Annotation 
   - [ ] Podcast episodes (see `/other/jack-reamer/`)
-- **Brief Anotation** Specializes in ultra-personalization at scale. Known for live email teardowns where he rewrites real cold emails on the spot — very practical, not theoretical. One of the most cited names in cold email copywriting circles.
+
 
